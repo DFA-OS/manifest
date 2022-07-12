@@ -1,0 +1,16 @@
+DFA-OS
+===========
+
+Getting started
+---------------
+
+To get started with Android/DFA-OS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+
+To initialize your local repository using the DFA-OS trees, use a command like this:
+```
+repo init -u https://github.com/DFA-OS/manifest.git -b skittles
+```
+Then to sync up:
+```
+repo sync
+```
