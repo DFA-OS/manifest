@@ -5,9 +5,6 @@
 					fetch="https://github.com/DFA-OS"
 					revision="refs/heads/skittles" />
 
-	<!-- Remove unused repos -->
-	<remove-project name="vendor/lineage" />
-
 	<!-- vendor repos -->
 	<project path="vendor/dfa" name="android_vendor_dfa" remote="dfa" />
 </manifest>
